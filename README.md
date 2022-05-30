@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @khalidOubelque
-- 👀 I’m interested in Java, web 3.0, Blockchain
-- 🌱 I’m currently learning web 3.0
+- 👀 I’m interested in Java, Blockchain
 - 📫 How to reach me Khalidoubelque@gmail.com
 -                     https://www.linkedin.com/in/khalid-oubelque-7b86a0100/
 
